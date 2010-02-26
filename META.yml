@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Hash-RenameKey
-version:            0.01
+version:            0.02
 abstract:           Perl extension for recursively renaming keys according
 author:
     - Jason Clifford <jason@ukfsn.org>
